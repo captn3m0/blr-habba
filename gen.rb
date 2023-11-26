@@ -1,7 +1,7 @@
 require 'icalendar'
 require 'json'
 
-data = JSON.parse File.read '2023.json'
+data = JSON.parse File.read '_site/2023.json'
 events = data['events']
 cal = Icalendar::Calendar.new
 
