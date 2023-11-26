@@ -1,0 +1,971 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:8a0859b8-0470-4f33-a5d0-f670ee61dbbd
+DTSTART;TZID=Asia/Kolkata:20231203T180000
+DTEND;TZID=Asia/Kolkata:20231203T190000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/smjXhY4AALAmJxbk8
+ \n      This is a ticketed event.\n      Ranga Katte - Dancefluence: Namma
+  Dance Utsav\n    
+LOCATION:The Courtyard Community
+SUMMARY:Kathak - Stories\, Links & Echoes - A Bespoke Performance by Natya 
+ & Stem Dance Kampni in Partnership with Courtyard Community
+URL;VALUE=URI:https://maps.app.goo.gl/smjXhY4AALAmJxbk8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:e96bcd1d-752e-4f60-80d4-eac2b719c089
+DTSTART;TZID=Asia/Kolkata:20231209T113000
+DTEND;TZID=Asia/Kolkata:20231209T133000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/183J4QvNBg15SfRa7
+ \n      This is a ticketed event.\n      Lit Nagara - Evenings@Atta Galatt
+ a\n    More Details: https://attagalatta.com/event_page.php?eventid=EVT249
+LOCATION:Atta Galatta
+SUMMARY:Book Swap
+URL;VALUE=URI:https://pages.razorpay.com/attagalattabookswap
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:03b1c6b5-30a1-4bfd-be51-dbdd344e7c4a
+DTSTART;TZID=Asia/Kolkata:20231209T153000
+DTEND;TZID=Asia/Kolkata:20231209T203000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/hpxbhS2ShbYXDgaw8
+ \n      This is a ticketed event.\n      Hasiru City - Sustainable Bangalo
+ re \n    
+LOCATION:BCC
+SUMMARY:All Living Things - Environmental Film Festival
+URL;VALUE=URI:https://www.blrcreativecircus.com/events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:fa434387-cefb-43ee-b7f1-8c59892cb483
+DTSTART;TZID=Asia/Kolkata:20231206T193000
+DTEND;TZID=Asia/Kolkata:20231206T210000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/a6GmT4fwKBiYGqwZ6
+ \n      This is a free event.\n      Ranga Katte - Natakagala Habba\n    
+LOCATION:Nayana
+SUMMARY:Na Rajguru
+URL;VALUE=URI:https://maps.app.goo.gl/a6GmT4fwKBiYGqwZ6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:c25f35d4-6874-4840-b418-2ef88f493ed5
+DTSTART;TZID=Asia/Kolkata:20231204T190000
+DTEND;TZID=Asia/Kolkata:20231204T203000
+DESCRIPTION:       Location Link: https://maps.google.com/maps?f=q&source=s
+ _q&hl=en&geocode=&q=7%2C+4th+Main+Road%2C+Domlur+II+Stage+Bangalore+Karnat
+ aka+560071+India\n      This is a free event.\n      Churumuri - Experienc
+ e BIC\n    
+LOCATION:BIC
+SUMMARY:Beethoven Variations: A Portrait in Music and Poetry
+URL;VALUE=URI:https://bangaloreinternationalcentre.org/event/beethoven-vari
+ ations-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:2c523161-90ab-4aae-8f3b-195bf5951541
+DTSTART;TZID=Asia/Kolkata:20231202T080000
+DTEND;TZID=Asia/Kolkata:20231202T110000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/aKN1PBLE6AwcMVPj9
+ \n      This is a ticketed event.\n      Walks Populi - Bengaluru by Foot\
+ n    
+LOCATION:Bangalore Fort
+SUMMARY:Bangalore fort walk
+URL;VALUE=URI:https://maps.app.goo.gl/aKN1PBLE6AwcMVPj9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:031db43e-c442-47f0-8211-b772fccd52b6
+DTSTART;TZID=Asia/Kolkata:20231209T073000
+DTEND;TZID=Asia/Kolkata:20231209T103000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/a6ALB2wgfqRAqvcw9
+ \n      This is a ticketed event.\n      Walks Populi - City Walks\n    
+LOCATION:Cubbon Park
+SUMMARY:Colonial Crawl
+URL;VALUE=URI:https://www.gully.tours/tours/the-colonial-crawl-bangalore-un
+ boxing-festival-133891
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:54348a03-f43b-4212-94ed-b0beec8ae893
+DTSTART;TZID=Asia/Kolkata:20231209T070000
+DTEND;TZID=Asia/Kolkata:20231209T100000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/ZXHNTiDRK3BPjkmV7
+ \n      This is a ticketed event.\n      Walks Populi - Rustik Travel\n   
+  
+LOCATION:KR Market
+SUMMARY:KR Market Photo Walk
+URL;VALUE=URI:https://www.rustiktravel.com/Experiences/bengaluru-walking-to
+ urs/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:15d81362-cd28-443d-a295-8bf976e5a9f6
+DTSTART;TZID=Asia/Kolkata:20231202T110000
+DTEND;TZID=Asia/Kolkata:20231202T123000
+DESCRIPTION:       Location Link: https://www.google.com/maps/dir/12.974148
+ \,77.5046096/swastika+school+of+dance/@13.1291368\,77.6963172\,10z/data=!4
+ m9!4m8!1m1!4e1!1m5!1m1!1s0x3bae184a08a113bd:0xf65ddad599db8cb4!2m2!1d77.60
+ 27821!2d13.0830711?entry=ttu\n      This is a ticketed event.\n      Churu
+ muri - Ahum Arts Festival \n    More Details: https://ahum.in/upcoming-sho
+ ws
+LOCATION:Swastika School of Dance and Music
+SUMMARY:Movement Workshop
+URL;VALUE=URI:https://in.bookmyshow.com/events/ahum-arts-festival/ET0037588
+ 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:49a2e000-dd66-4812-b6ba-caff2019d75c
+DTSTART;TZID=Asia/Kolkata:20231202T180000
+DTEND;TZID=Asia/Kolkata:20231202T210000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/ZywrS2jZZk9L8obw9
+ \n      This is a ticketed event.\n      Walks Populi - City Walks\n    
+LOCATION:Chickpete
+SUMMARY:Pete By Night
+URL;VALUE=URI:https://www.gully.tours/tours/petebynightforall
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:d8b969cd-25b9-4b5e-9f4a-403ebe51c556
+DTSTART;TZID=Asia/Kolkata:20231205T190000
+DTEND;TZID=Asia/Kolkata:20231205T203000
+DESCRIPTION:       Location Link: https://maps.google.com/maps?f=q&source=s
+ _q&hl=en&geocode=&q=7%2C+4th+Main+Road%2C+Domlur+II+Stage+Bangalore+Karnat
+ aka+560071+India\n      This is a free event.\n      Churumuri - Experienc
+ e BIC\n    
+LOCATION:BIC
+SUMMARY:The Rolling Ruanas: Colombian Music and Tradition
+URL;VALUE=URI:https://bangaloreinternationalcentre.org/event/the-rolling-ru
+ anas/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:9a899b08-681b-4efc-9ca1-3b5ef8823247
+DTSTART;TZID=Asia/Kolkata:20231210T080000
+DTEND;TZID=Asia/Kolkata:20231210T110000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/RpjvVx6niz6VAszk7
+ \n      This is a ticketed event.\n      Walks Populi - Bengaluru by Foot\
+ n    
+LOCATION:Malleswaram
+SUMMARY:Malleswaram walk
+URL;VALUE=URI:https://maps.app.goo.gl/RpjvVx6niz6VAszk7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:7805dc41-e823-4994-ae65-babfa0d09985
+DTSTART;TZID=Asia/Kolkata:20231207T183000
+DTEND;TZID=Asia/Kolkata:20231207T213000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+ \n      This is a ticketed event.\n      Churumuri - Vibes@Lahe Lahe\n    
+LOCATION:Lahe Lahe
+SUMMARY:Tabletop Thursdays
+URL;VALUE=URI:https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:801909f2-f5ee-4270-a4f2-578fa04320ae
+DTSTART;TZID=Asia/Kolkata:20231209T073000
+DTEND;TZID=Asia/Kolkata:20231209T103000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/RgkgRcyENtMJNCEKA
+ \n      This is a ticketed event.\n      Walks Populi - City Walks\n    
+LOCATION:Basavangudi
+SUMMARY:Breakfast Trails: Exploring Basavangudi's Culinary Heritage
+URL;VALUE=URI:https://linktr.ee/yourstrulyindia?utm_source=linktree_profile
+ _share&ltsid=45f7c1d5-1354-403b-a55f-3180d4e65f96
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:3004f99e-8946-4b04-accf-80ff204b0051
+DTSTART;TZID=Asia/Kolkata:20231201T190000
+DTEND;TZID=Asia/Kolkata:20231201T203000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/4dKer3xZJsBdk84k7
+ \n      This is a ticketed event.\n      Churumuri - Events@Courtyard Koot
+ a\n    
+LOCATION:Courtyard Koota
+SUMMARY:A Talk by Pushpamala N
+URL;VALUE=URI:https://courtyardkoota.com/events/pushpamala-n-talk/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:496610f5-e681-4913-b35d-8942bf91be0b
+DTSTART;TZID=Asia/Kolkata:20231206T183000
+DTEND;TZID=Asia/Kolkata:20231206T200000
+DESCRIPTION:       Location Link: https://maps.google.com/maps?f=q&source=s
+ _q&hl=en&geocode=&q=7%2C+4th+Main+Road%2C+Domlur+II+Stage+Bangalore+Karnat
+ aka+560071+India\n      This is a free event.\n      Churumuri - Experienc
+ e BIC\n    
+LOCATION:BIC
+SUMMARY:Tangled and Sparking: Regulatory Jugaad in India’s Electricity Se
+ ctor
+URL;VALUE=URI:https://bangaloreinternationalcentre.org/event/tangled-and-sp
+ arking/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:a9d5e550-9e51-400b-80ee-a3e8c6524293
+DTSTART;TZID=Asia/Kolkata:20231210T080000
+DTEND;TZID=Asia/Kolkata:20231210T103000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/FYg9imy4GEU9rjDH7
+ \n      This is a ticketed event.\n      Walks Populi - Rustik Travel\n   
+  
+LOCATION:Vidhana Soudha
+SUMMARY:Namma Bengaluru Heritage Walk
+URL;VALUE=URI:https://www.rustiktravel.com/Experiences/bengaluru-walking-to
+ urs/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:18d82a6b-2f7d-44ec-ad2a-0806073c7d00
+DTSTART;TZID=Asia/Kolkata:20231203T180000
+DTEND;TZID=Asia/Kolkata:20231203T193000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/4dKer3xZJsBdk84k7
+ \n      This is a ticketed event.\n      Churumuri - Events@Courtyard Koot
+ a\n    
+LOCATION:Courtyard Koota
+SUMMARY:Songs Of The Baul : Santhi Priya
+URL;VALUE=URI:https://courtyardkoota.com/events/songs-of-the-baul-santhi-pr
+ iya/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:209a05d3-64e4-4a05-a209-e7e7979f8359
+DTSTART;TZID=Asia/Kolkata:20231202T160000
+DTEND;TZID=Asia/Kolkata:20231202T200000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/hpxbhS2ShbYXDgaw8
+ \n      This is a ticketed event.\n      Hasiru City -  Sustainable Bangal
+ ore\n    
+LOCATION:BCC
+SUMMARY:Aerial Silk Showcase
+URL;VALUE=URI:https://www.blrcreativecircus.com/events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:0af8f001-f68b-41ac-8565-f4840ad377ec
+DTSTART;TZID=Asia/Kolkata:20231201T190000
+DTEND;TZID=Asia/Kolkata:20231201T201000
+DESCRIPTION:       Location Link: https://www.google.com/maps/dir/12.974148
+ \,77.5046096/swastika+school+of+dance/@13.1291368\,77.6963172\,10z/data=!4
+ m9!4m8!1m1!4e1!1m5!1m1!1s0x3bae184a08a113bd:0xf65ddad599db8cb4!2m2!1d77.60
+ 27821!2d13.0830711?entry=ttu\n      This is a ticketed event.\n      Churu
+ muri - Ahum Arts Festival \n    More Details: https://ahum.in/upcoming-sho
+ ws
+LOCATION:Swastika School of Dance and Music
+SUMMARY:Me And My Trash - A Movement And Spoken Word Performance
+URL;VALUE=URI:https://in.bookmyshow.com/events/ahum-arts-festival/ET0037582
+ 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:9ffa7c80-ea07-4c7c-805c-23fa863b4867
+DTSTART;TZID=Asia/Kolkata:20231209T150000
+DTEND;TZID=Asia/Kolkata:20231209T170000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/183J4QvNBg15SfRa7
+ \n      This is a free event.\n      Lit Nagara - Evenings@Atta Galatta\n 
+    
+LOCATION:Atta Galatta
+SUMMARY:Atta Galatta Book Club
+URL;VALUE=URI:https://attagalatta.com/event_page.php?eventid=EVT237
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:5b968326-de33-4a6f-a154-1c866cfcdca9
+DTSTART;TZID=Asia/Kolkata:20231207T183000
+DTEND;TZID=Asia/Kolkata:20231207T200000
+DESCRIPTION:       Location Link: https://maps.google.com/maps?f=q&source=s
+ _q&hl=en&geocode=&q=7%2C+4th+Main+Road%2C+Domlur+II+Stage+Bangalore+Karnat
+ aka+560071+India\n      This is a free event.\n      Churumuri - Experienc
+ e BIC\n    
+LOCATION:BIC
+SUMMARY:From Pitch to Page: The Eternal Allure of Cricket
+URL;VALUE=URI:https://bangaloreinternationalcentre.org/event/from-pitch-to-
+ page/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:fdbf0069-864b-4f2c-a765-fb80823c59fe
+DTSTART;TZID=Asia/Kolkata:20231209T180000
+DTEND;TZID=Asia/Kolkata:20231209T210000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/Y16fTsV9Y4kSpeAc7
+ \n      This is a ticketed event.\n      Walks Populi - City Walks\n    
+LOCATION:Commercial Street
+SUMMARY:Cannt By Night
+URL;VALUE=URI:https://www.gully.tours/cantt-by-night
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:682ab2ae-9ece-4d94-a064-f17f5f0053f9
+DTSTART;TZID=Asia/Kolkata:20231203T190000
+DTEND;TZID=Asia/Kolkata:20231203T201500
+DESCRIPTION:       Location Link: https://www.google.com/maps/dir/12.974148
+ \,77.5046096/swastika+school+of+dance/@13.1291368\,77.6963172\,10z/data=!4
+ m9!4m8!1m1!4e1!1m5!1m1!1s0x3bae184a08a113bd:0xf65ddad599db8cb4!2m2!1d77.60
+ 27821!2d13.0830711?entry=ttu\n      This is a free event.\n      Churumuri
+  - Ahum Arts Festival \n    More Details: https://ahum.in/upcoming-shows
+LOCATION:Swastika School of Dance and Music
+SUMMARY:Songs of Kabir and Other Saint Poets
+URL;VALUE=URI:https://in.bookmyshow.com/events/ahum-arts-festival/ET0037595
+ 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:a7fbbd0a-c6a1-4dbd-b6aa-bbbdb09f0116
+DTSTART;TZID=Asia/Kolkata:20231210T080000
+DTEND;TZID=Asia/Kolkata:20231210T123000
+DESCRIPTION:       Location Link: https://www.google.com/maps/place/Sri+Bho
+ ga+Nandishwara+Gudi/@13.3867627\,77.6980554\,15z/data=!4m2!3m1!1s0x0:0x3bc
+ ed6af35e89c2c?sa=X&ved=2ahUKEwjzi4y1_seCAxXUS2wGHcH9DzUQ_BJ6BAhjEAA\n     
+  This is a ticketed event.\n      Walks Populi - Walk the Historic Talk!\n
+     
+LOCATION:Bhoganandishwara Temple\, Foothills of Nandi Hills
+SUMMARY:Nandi Valley Walks
+URL;VALUE=URI:https://www.facebook.com/nandivalleywalks/posts/pfbid0d6p8gNs
+ yUcefJyhnS4mkD7viGcgaE5uGMnKJ48Fv6rQNE3DgYhkTPwqhFzs3HeKUl?mibextid=YxdKMJ
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:533b3b4f-5cfc-407d-a5ad-562490c42c54
+DTSTART;TZID=Asia/Kolkata:20231203T070000
+DTEND;TZID=Asia/Kolkata:20231203T080000
+DESCRIPTION:       Location Link: https://www.google.com/maps/dir//jakkur+l
+ ake+main+gate/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bae19b51f0399a7:0x140d6bc
+ 15a66bbcd?sa=X&ved=2ahUKEwiR056x5sOCAxXRfd4KHXPeBzQQ9Rd6BAhBEAA\n      Thi
+ s is a free event.\n      Churumuri - Ahum Arts Festival \n    
+LOCATION:Jakkur Lake
+SUMMARY:Bird Walk
+URL;VALUE=URI:https://ahum.in/upcoming-shows
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:6085f34e-e788-4e6d-872a-a536b3794563
+DTSTART;TZID=Asia/Kolkata:20231210T110000
+DTEND;TZID=Asia/Kolkata:20231210T120000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/4dKer3xZJsBdk84k7
+ \n      This is a ticketed event.\n      Churumuri - Events@Courtyard Koot
+ a\n    
+LOCATION:Courtyard Koota
+SUMMARY:The Big Bad Fight : Yamini Vijayan
+URL;VALUE=URI:https://courtyardkoota.com/events/the-big-bad-fight-yamini-vi
+ jayan/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:f13e09af-b4e0-43d4-b4e1-23258bfc9407
+DTSTART;TZID=Asia/Kolkata:20231203T103000
+DTEND;TZID=Asia/Kolkata:20231203T123000
+DESCRIPTION:       Location Link: https://goo.gl/maps/TVcN1cuBfyx\n      Th
+ is is a ticketed event.\n      Ranga Katte - Xplore & Xperience@Vyoma\n   
+  
+LOCATION:Vyoma Artspace and Studio Theatre
+SUMMARY:Energy Clowning Workshop
+URL;VALUE=URI:https://goo.gl/maps/TVcN1cuBfyx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:a0efee62-5ad7-49a3-a1fe-d96cfef65274
+DTSTART;TZID=Asia/Kolkata:20231201T183000
+DTEND;TZID=Asia/Kolkata:20231201T194500
+DESCRIPTION:       Location Link: https://maps.google.com/maps?f=q&source=s
+ _q&hl=en&geocode=&q=7%2C+4th+Main+Road%2C+Domlur+II+Stage+Bangalore+Karnat
+ aka+560071+India\n      This is a free event.\n      Churumuri - Experienc
+ e BIC\n    
+LOCATION:BIC
+SUMMARY:Colonial Interlude: The Nottuswara Sahityas of Muthuswami Dikshitar
+  (1775-1835)
+URL;VALUE=URI:https://bangaloreinternationalcentre.org/event/colonial-inter
+ lude/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:2c67dc66-3cde-47ba-84d8-6de17f9e0c48
+DTSTART;TZID=Asia/Kolkata:20231202T190000
+DTEND;TZID=Asia/Kolkata:20231202T203000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/4dKer3xZJsBdk84k7
+ \n      This is a ticketed event.\n      Churumuri - Events@Courtyard Koot
+ a\n    
+LOCATION:Courtyard Koota
+SUMMARY:The Joke'S On Us : Malhar Laugh Club
+URL;VALUE=URI:https://courtyardkoota.com/events/the-jokes-on-us-stand-up-co
+ medy/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:2c38cb05-cd63-47af-97d0-4d8cb8be20f5
+DTSTART;TZID=Asia/Kolkata:20231202T083000
+DTEND;TZID=Asia/Kolkata:20231202T113000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/MH6Nz42cb6KFR5yR6
+ \n      This is a ticketed event.\n      Walks Populi - City Walks\n    
+LOCATION:Chickpete
+SUMMARY:Death By Dosa Walk
+URL;VALUE=URI:https://www.gully.tours/tours/death%20by%20dosa
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:c6cfa6eb-3240-44c5-9cac-13c592538456
+DTSTART;TZID=Asia/Kolkata:20231210T080000
+DTEND;TZID=Asia/Kolkata:20231210T120000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/cupDqyxEcts4jUfn8
+ \n      This is a ticketed event.\n      Ranga Katte - Dancefluence: Namma
+  Dance Utsav\n    
+LOCATION:Natya STEM Studio at Natya Institute of Kathak & Choreography\,  M
+ alleshwaram
+SUMMARY:Early Morning Kutcheri: Palimpsest & Sanjog -  Performance & Talks 
+ Around Indian Contemporary Dance\, Social and Climate Issues
+URL;VALUE=URI:https://maps.app.goo.gl/cupDqyxEcts4jUfn8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:3e15d2a0-cc05-42d1-873f-62412e5b290d
+DTSTART;TZID=Asia/Kolkata:20231202T103000
+DTEND;TZID=Asia/Kolkata:20231202T180000
+DESCRIPTION:       Location Link: https://www.sumukha.com/details?section=e
+ xhibition&id=386&ref=%2fexhibition%3fsection%3dexhibition%26scope%3dupcomi
+ ng\n      This is a free event.\n      Kala Koota - Overshoot by Arunkumar
+  H. G.\n    
+LOCATION:Gallery Sumukha
+SUMMARY:Overshoot
+URL;VALUE=URI:https://www.sumukha.com/details?section=exhibition&id=386&ref
+ =%2fexhibition%3fsection%3dexhibition%26scope%3dupcoming
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:6736012d-cbac-4971-afce-398a2c6ce41c
+DTSTART;TZID=Asia/Kolkata:20231202T180000
+DTEND;TZID=Asia/Kolkata:20231202T193000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+ \n      This is a ticketed event.\n      Churumuri - Vibes@Lahe Lahe\n    
+LOCATION:Lahe Lahe
+SUMMARY:Kavish Seth's Music Gig
+URL;VALUE=URI:https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:3c53ef4d-a560-4942-9dac-ddacd6dcdb65
+DTSTART;TZID=Asia/Kolkata:20231206T180000
+DTEND;TZID=Asia/Kolkata:20231206T190000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/cupDqyxEcts4jUfn8
+ \n      This is a ticketed event.\n      Ranga Katte - Dancefluence: Namma
+  Dance Utsav\n    
+LOCATION:Natya STEM Studio at Natya Institute of Kathak & Choreography\,  M
+ alleshwaram
+SUMMARY:Namma Dance for Namma Bengaluru: A Curated Workshop for Kathak & Co
+ ntemporary Movement
+URL;VALUE=URI:https://maps.app.goo.gl/cupDqyxEcts4jUfn8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:135c7956-e046-4950-91a0-170c1cf6681a
+DTSTART;TZID=Asia/Kolkata:20231209T180000
+DTEND;TZID=Asia/Kolkata:20231209T200000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/4dKer3xZJsBdk84k7
+ \n      This is a ticketed event.\n      Churumuri - Events@Courtyard Koot
+ a\n    
+LOCATION:Courtyard Koota
+SUMMARY:Imagine Your Plate : Curated By Koota
+URL;VALUE=URI:https://courtyardkoota.com/events/imagine-your-plate/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:d3e24897-47f6-4794-b0d2-54673e4934cb
+DTSTART;TZID=Asia/Kolkata:20231209T080000
+DTEND;TZID=Asia/Kolkata:20231209T110000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/wc4Ur3jWYrvUQVmC6
+ \n      This is a ticketed event.\n      Walks Populi - Bengaluru by Foot\
+ n    
+LOCATION:Nagarathpet
+SUMMARY:Pettah walk
+URL;VALUE=URI:https://maps.app.goo.gl/wc4Ur3jWYrvUQVmC6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:8235d17c-ca52-491a-9baf-535a6f5d0c95
+DTSTART;TZID=Asia/Kolkata:20231201T190000
+DTEND;TZID=Asia/Kolkata:20231201T210000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+ \n      This is a ticketed event.\n      Churumuri - Vibes@Lahe Lahe\n    
+LOCATION:Lahe Lahe
+SUMMARY:Open Mic Fridays
+URL;VALUE=URI:https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:1e7580b1-2076-45de-9f8a-85614088087e
+DTSTART;TZID=Asia/Kolkata:20231210T073000
+DTEND;TZID=Asia/Kolkata:20231210T103000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/GknjDkLKvm7PBXme7
+ \n      This is a ticketed event.\n      Walks Populi - City Walks\n    
+LOCATION:Malleshwaram
+SUMMARY:Malleshwaram Hogona
+URL;VALUE=URI:https://www.gully.tours/trips/private-street%20-art-walk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:66185564-7924-4efb-b421-f8790d679091
+DTSTART;TZID=Asia/Kolkata:20231207T070000
+DTEND;TZID=Asia/Kolkata:20231207T090000
+DESCRIPTION:       Location Link: https://www.google.com/maps/place/Cubbon+
+ Park+UB+City+signal/@12.9722535\,77.5938097\,15z/data=!4m6!3m5!1s0x3bae167
+ 728d37fb5:0x942ad9e5939f3874!8m2!3d12.9722535!4d77.5938097!16s%2Fg%2F11c55
+ 4ld37?entry=ttu\n      This is a ticketed event.\n      Walks Populi - Wal
+ k the Historic Talk!\n    
+LOCATION:Cubbon Park\, UB City Entrance
+SUMMARY:Nandi Valley Walks - In Town @Cubbon Park!
+URL;VALUE=URI:https://www.facebook.com/nandivalleywalks/posts/pfbid0d6p8gNs
+ yUcefJyhnS4mkD7viGcgaE5uGMnKJ48Fv6rQNE3DgYhkTPwqhFzs3HeKUl?mibextid=YxdKMJ
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:93994284-a6e1-44d4-8980-79521c3dc119
+DTSTART;TZID=Asia/Kolkata:20231203T160000
+DTEND;TZID=Asia/Kolkata:20231203T170000
+DESCRIPTION:       Location Link: https://www.google.com/maps/dir/12.974148
+ \,77.5046096/swastika+school+of+dance/@13.1291368\,77.6963172\,10z/data=!4
+ m9!4m8!1m1!4e1!1m5!1m1!1s0x3bae184a08a113bd:0xf65ddad599db8cb4!2m2!1d77.60
+ 27821!2d13.0830711?entry=ttu\n      This is a ticketed event.\n      Churu
+ muri - Ahum Arts Festival \n    More Details: https://ahum.in/upcoming-sho
+ ws
+LOCATION:Swastika School of Dance and Music
+SUMMARY:Story Telling
+URL;VALUE=URI:https://in.bookmyshow.com/plays/ahum-arts-festival/ET00376063
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:f6fc9e84-c0af-4da4-8a5c-7c4699f365b1
+DTSTART;TZID=Asia/Kolkata:20231203T090000
+DTEND;TZID=Asia/Kolkata:20231203T133000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/41Zzie2mxaDzFYVK8
+ \n      This is a ticketed event.\n      Walks Populi - City Walks\n    
+LOCATION:Nandi Hills
+SUMMARY:Echoes of the Past: A Guided Walk through Nandi’s History
+URL;VALUE=URI:https://linktr.ee/yourstrulyindia?utm_source=linktree_profile
+ _share&ltsid=45f7c1d5-1354-403b-a55f-3180d4e65f96
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:fc4d8322-8a61-4894-8159-310276f76a62
+DTSTART;TZID=Asia/Kolkata:20231208T190000
+DTEND;TZID=Asia/Kolkata:20231208T210000
+DESCRIPTION:       Location Link: https://goo.gl/maps/TVcN1cuBfyx\n      Th
+ is is a ticketed event.\n      Ranga Katte - Xplore & Xperience@Vyoma\n   
+  
+LOCATION:Vyoma Artspace and Studio Theatre
+SUMMARY:Double Trouble
+URL;VALUE=URI:https://goo.gl/maps/TVcN1cuBfyx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:6544a7dc-75f4-4731-9a12-ec387146412a
+DTSTART;TZID=Asia/Kolkata:20231210T190000
+DTEND;TZID=Asia/Kolkata:20231210T210000
+DESCRIPTION:       Location Link: https://goo.gl/maps/TVcN1cuBfyx\n      Th
+ is is a ticketed event.\n      Ranga Katte - Xplore & Xperience@Vyoma\n   
+  
+LOCATION:Vyoma Artspace and Studio Theatre
+SUMMARY:Melange: An Anthology of 4 plays
+URL;VALUE=URI:https://goo.gl/maps/TVcN1cuBfyx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:3057bd10-325b-422d-9473-b0ca562c74fc
+DTSTART;TZID=Asia/Kolkata:20231209T113000
+DTEND;TZID=Asia/Kolkata:20231209T123000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/183J4QvNBg15SfRa7
+ \n      This is a ticketed event.\n      Lit Nagara - Evenings@Atta Galatt
+ a\n    More Details: https://attagalatta.com/event_page.php?eventid=EVT251
+LOCATION:Atta Galatta
+SUMMARY:Let's Play With Cardboard Boxes
+URL;VALUE=URI:https://in.bookmyshow.com/events/let-s-play-with-cardboard-bo
+ xes/ET00375528?webview=true
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:fc79b611-e2c7-4b1b-a8da-9bdfc3ba38e1
+DTSTART;TZID=Asia/Kolkata:20231206T190000
+DTEND;TZID=Asia/Kolkata:20231206T213000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+ \n      This is a ticketed event.\n      Churumuri - Vibes@Lahe Lahe\n    
+LOCATION:Lahe Lahe
+SUMMARY:Music Jam
+URL;VALUE=URI:https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:0764f21b-1897-4bf2-ac68-88f8556e0f85
+DTSTART;TZID=Asia/Kolkata:20231202T190000
+DTEND;TZID=Asia/Kolkata:20231202T203000
+DESCRIPTION:       Location Link: https://maps.google.com/maps?f=q&source=s
+ _q&hl=en&geocode=&q=7%2C+4th+Main+Road%2C+Domlur+II+Stage+Bangalore+Karnat
+ aka+560071+India\n      This is a free event.\n      Churumuri - Experienc
+ e BIC\n    
+LOCATION:BIC
+SUMMARY:Lost and Found: Songs of Saints
+URL;VALUE=URI:https://bangaloreinternationalcentre.org/event/lost-and-found
+ /
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:fa6fa761-e5fe-4518-9db7-ec4b698c098c
+DTSTART;TZID=Asia/Kolkata:20231201T173000
+DTEND;TZID=Asia/Kolkata:20231201T210000
+DESCRIPTION:       Location Link: https://maps.google.com/maps?f=q&source=s
+ _q&hl=en&geocode=&q=7%2C+4th+Main+Road%2C+Domlur+II+Stage+Bangalore+Karnat
+ aka+560071+India\n      This is a free event.\n      Churumuri - Experienc
+ e BIC\n    
+LOCATION:BIC
+SUMMARY:Carols in the City: An Evening of Festive Joy
+URL;VALUE=URI:https://bangaloreinternationalcentre.org/event/carols-in-the-
+ city-3/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:47fea723-19ad-4af4-ba68-59f7d9698b13
+DTSTART;TZID=Asia/Kolkata:20231210T110000
+DTEND;TZID=Asia/Kolkata:20231210T123000
+DESCRIPTION:       Location Link: https://www.google.com/maps/place/Bangalo
+ re+International+Centre/@12.9666878\,77.6327154\,17z/data=!3m1!4b1!4m6!3m5
+ !1s0x3bae141c75792a85:0x69f8bae5fe7a6f35!8m2!3d12.9666826!4d77.6352903!16s
+ %2Fg%2F1v0lj66q?entry=ttu\n      This is a free event.\n      Ranga Katte 
+ - Natakagala Habba\n    
+LOCATION:BIC
+SUMMARY:Accidental Death of an Anarchist
+URL;VALUE=URI:https://www.google.com/maps/place/Bangalore+International+Cen
+ tre/@12.9666878,77.6327154,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae141c75792a85:
+ 0x69f8bae5fe7a6f35!8m2!3d12.9666826!4d77.6352903!16s%2Fg%2F1v0lj66q?entry=
+ ttu
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:bfb01417-bb60-4adf-88ba-b43a816e65a8
+DTSTART;TZID=Asia/Kolkata:20231202T160000
+DTEND;TZID=Asia/Kolkata:20231202T183000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+ \n      This is a ticketed event.\n      Churumuri - Vibes@Lahe Lahe\n    
+LOCATION:Lahe Lahe
+SUMMARY:Vegan Potluck
+URL;VALUE=URI:https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:3e1a73f9-ed81-407f-bd4b-865144fadd5b
+DTSTART;TZID=Asia/Kolkata:20231202T090000
+DTEND;TZID=Asia/Kolkata:20231202T200000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/nxtkX97zgcXniAYq6
+ \n      This is a free event.\n      Lit Nagara - BlrLitFest\n    
+LOCATION:The LaLit Ashok Hotel
+SUMMARY:Bangalore Literature Festival
+URL;VALUE=URI:https://bangaloreliteraturefestival.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:e34839ba-198c-40aa-b9c2-4b8dc5fe2f97
+DTSTART;TZID=Asia/Kolkata:20231203T110000
+DTEND;TZID=Asia/Kolkata:20231203T123000
+DESCRIPTION:       Location Link: https://maps.google.com/maps?f=q&source=s
+ _q&hl=en&geocode=&q=7%2C+4th+Main+Road%2C+Domlur+II+Stage+Bangalore+Karnat
+ aka+560071+India\n      This is a free event.\n      Churumuri - Experienc
+ e BIC\n    
+LOCATION:BIC
+SUMMARY:Essence of Duality: Redefining the Sitar in Indo-Jazz Fusion
+URL;VALUE=URI:https://bangaloreinternationalcentre.org/event/essence-of-dua
+ lity/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:ab1ecd84-f526-436c-b0d1-e06fd49b16cc
+DTSTART;TZID=Asia/Kolkata:20231202T110000
+DTEND;TZID=Asia/Kolkata:20231202T130000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/4dKer3xZJsBdk84k7
+ \n      This is a ticketed event.\n      Churumuri - Events@Courtyard Koot
+ a\n    
+LOCATION:Courtyard Koota
+SUMMARY:Singing Baul : Santhi Priya
+URL;VALUE=URI:https://courtyardkoota.com/events/singing-baul-with-santhi-pr
+ iya/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:da8e99ae-4358-4a42-aab5-bf76fe603c36
+DTSTART;TZID=Asia/Kolkata:20231203T080000
+DTEND;TZID=Asia/Kolkata:20231203T090000
+DESCRIPTION:       Location Link: https://www.google.com/maps/dir//jakkur+l
+ ake+main+gate/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bae19b51f0399a7:0x140d6bc
+ 15a66bbcd?sa=X&ved=2ahUKEwiR056x5sOCAxXRfd4KHXPeBzQQ9Rd6BAhBEAA\n      Thi
+ s is a free event.\n      Churumuri - Ahum Arts Festival \n    More Detail
+ s: https://ahum.in/upcoming-shows
+LOCATION:Jakkur Lake
+SUMMARY:Paint by The Lake Side
+URL;VALUE=URI:https://in.bookmyshow.com/events/ahum-arts-festival/ET0037595
+ 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:76cbd4b6-e92f-49b0-b1c9-b7c5b541926b
+DTSTART;TZID=Asia/Kolkata:20231211T193000
+DTEND;TZID=Asia/Kolkata:20231211T210000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/a6GmT4fwKBiYGqwZ6
+ \n      This is a free event.\n      Ranga Katte - Natakagala Habba\n    
+LOCATION:Nayana
+SUMMARY:Dweepa
+URL;VALUE=URI:https://maps.app.goo.gl/a6GmT4fwKBiYGqwZ6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:3a253f61-fa6e-4a2d-ae0f-cc9667815fb8
+DTSTART;TZID=Asia/Kolkata:20231203T180000
+DTEND;TZID=Asia/Kolkata:20231203T200000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+ \n      This is a ticketed event.\n      Churumuri - Vibes@Lahe Lahe\n    
+LOCATION:Lahe Lahe
+SUMMARY:Saaz - A Musical Evening (Open Mic)
+URL;VALUE=URI:https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:bde8b8b7-affd-4105-91f2-513e3a89f9b5
+DTSTART;TZID=Asia/Kolkata:20231208T183000
+DTEND;TZID=Asia/Kolkata:20231208T193000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/4dKer3xZJsBdk84k7
+ \n      This is a ticketed event.\n      Churumuri - Events@Courtyard Koot
+ a\n    
+LOCATION:Courtyard Koota
+SUMMARY:Beyond Hattamala
+URL;VALUE=URI:https://maps.app.goo.gl/4dKer3xZJsBdk84k7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:7124f884-8176-4b85-84c3-994dd785e63c
+DTSTART;TZID=Asia/Kolkata:20231202T173000
+DTEND;TZID=Asia/Kolkata:20231202T203000
+DESCRIPTION:       Location Link: https://www.sumukha.com/details?section=e
+ xhibition&id=386&ref=%2fexhibition%3fsection%3dexhibition%26scope%3dupcomi
+ ng\n      This is a free event.\n      Kala Koota - Overshoot by Arunkumar
+  H. G.\n    
+LOCATION:Gallery Sumukha
+SUMMARY:Overshoot
+URL;VALUE=URI:https://www.sumukha.com/details?section=exhibition&id=386&ref
+ =%2fexhibition%3fsection%3dexhibition%26scope%3dupcoming
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:96488cdd-3374-4fb5-a54a-6e41baf54013
+DTSTART;TZID=Asia/Kolkata:20231202T183000
+DTEND;TZID=Asia/Kolkata:20231202T200000
+DESCRIPTION:       Location Link: https://www.google.com/maps/dir/12.974148
+ \,77.5046096/swastika+school+of+dance/@13.1291368\,77.6963172\,10z/data=!4
+ m9!4m8!1m1!4e1!1m5!1m1!1s0x3bae184a08a113bd:0xf65ddad599db8cb4!2m2!1d77.60
+ 27821!2d13.0830711?entry=ttu\n      This is a ticketed event.\n      Churu
+ muri - Ahum Arts Festival \n    More Details: https://ahum.in/upcoming-sho
+ ws
+LOCATION:Swastika School of Dance and Music
+SUMMARY:Dweepa - A Kannada Play
+URL;VALUE=URI:https://in.bookmyshow.com/venue/swastika-school-of-dance-and-
+ music-bengaluru/SWAD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:44907cc6-98ff-4ae1-834b-092dba75d7cf
+DTSTART;TZID=Asia/Kolkata:20231210T120000
+DTEND;TZID=Asia/Kolkata:20231210T203000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/hpxbhS2ShbYXDgaw8
+ \n      This is a ticketed event.\n      Hasiru City - Sustainable Bangalo
+ re \n    
+LOCATION:BCC
+SUMMARY:All Living Things - Environmental Film Festival
+URL;VALUE=URI:https://www.blrcreativecircus.com/events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:48429a6b-d9c0-4d3e-8226-9200d98cc28a
+DTSTART;TZID=Asia/Kolkata:20231207T193000
+DTEND;TZID=Asia/Kolkata:20231207T210000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/hEz4vUaePCcnbs9FA
+ \n      This is a free event.\n      Ranga Katte - Natakagala Habba\n    
+LOCATION:K H Kalasoudha
+SUMMARY:Kanive Haadu
+URL;VALUE=URI:https://maps.app.goo.gl/hEz4vUaePCcnbs9FA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:e100970f-f68e-49c5-affa-ad427615112c
+DTSTART;TZID=Asia/Kolkata:20231203T120000
+DTEND;TZID=Asia/Kolkata:20231203T140000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+ \n      This is a ticketed event.\n      Churumuri - Vibes@Lahe Lahe\n    
+LOCATION:Lahe Lahe
+SUMMARY:Bhangra Jam with Charan
+URL;VALUE=URI:https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:d6006c51-ad23-46b1-99d8-f16ce04c2d82
+DTSTART;TZID=Asia/Kolkata:20231202T110000
+DTEND;TZID=Asia/Kolkata:20231202T120000
+DESCRIPTION:       Location Link: https://www.google.com/maps/dir//studio+A
+ taash/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bae1945c215ef19:0xb056fa2b772e91b
+ 5?sa=X&ved=2ahUKEwjuibuw5cOCAxVll1YBHSQqBcAQ9Rd6BAgvEAA\n      This is a t
+ icketed event.\n      Churumuri - Ahum Arts Festival \n    More Details: h
+ ttps://ahum.in/upcoming-shows
+LOCATION:Studio Ataash
+SUMMARY:Pottery Workshop
+URL;VALUE=URI:https://in.bookmyshow.com/events/ahum-arts-festival/ET0037600
+ 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:054fb5d3-4af7-423f-bee2-19af99586335
+DTSTART;TZID=Asia/Kolkata:20231209T160000
+DTEND;TZID=Asia/Kolkata:20231209T173000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+ \n      This is a ticketed event.\n      Churumuri - Vibes@Lahe Lahe\n    
+LOCATION:Lahe Lahe
+SUMMARY:Book Club
+URL;VALUE=URI:https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:69756e76-7353-4010-a316-91cbce54d106
+DTSTART;TZID=Asia/Kolkata:20231205T193000
+DTEND;TZID=Asia/Kolkata:20231205T213000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+ \n      This is a ticketed event.\n      Churumuri - Vibes@Lahe Lahe\n    
+LOCATION:Lahe Lahe
+SUMMARY:Write Out Loud (Poetry Evening)
+URL;VALUE=URI:https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:bae4643b-e6b6-4ea3-b1bf-0aa40e5fe1bf
+DTSTART;TZID=Asia/Kolkata:20231210T120000
+DTEND;TZID=Asia/Kolkata:20231210T140000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+ \n      This is a ticketed event.\n      Churumuri - Vibes@Lahe Lahe\n    
+LOCATION:Lahe Lahe
+SUMMARY:Bhangra Jam with Charan
+URL;VALUE=URI:https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:b6c60709-1b79-4339-b8ad-18eeb6182e3b
+DTSTART;TZID=Asia/Kolkata:20231203T080000
+DTEND;TZID=Asia/Kolkata:20231203T110000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/iT4gdzGK7s38R8DT9
+ \n      This is a ticketed event.\n      Walks Populi - Bengaluru by Foot\
+ n    
+LOCATION:Cottonpet
+SUMMARY:Pettah walk
+URL;VALUE=URI:https://maps.app.goo.gl/iT4gdzGK7s38R8DT9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:8dbbf671-a523-4cd3-9a74-267ad0ed2768
+DTSTART;TZID=Asia/Kolkata:20231210T190000
+DTEND;TZID=Asia/Kolkata:20231210T213000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+ \n      This is a ticketed event.\n      Churumuri - Vibes@Lahe Lahe\n    
+LOCATION:Lahe Lahe
+SUMMARY:Garba / Dandiya Night
+URL;VALUE=URI:https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:66bf6f5c-d88c-47d3-ac74-31a921ae2b89
+DTSTART;TZID=Asia/Kolkata:20231210T190000
+DTEND;TZID=Asia/Kolkata:20231210T210000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+ \n      This is a ticketed event.\n      Churumuri - Vibes@Lahe Lahe\n    
+LOCATION:Lahe Lahe
+SUMMARY:Lahe Lahe Open Mic
+URL;VALUE=URI:https://maps.app.goo.gl/ZU8xkAocv1DXj9QTA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:6eeb9e98-6716-4be0-a6a6-33e3f287625f
+DTSTART;TZID=Asia/Kolkata:20231206T183000
+DTEND;TZID=Asia/Kolkata:20231206T210000
+DESCRIPTION:       Location Link: https://maps.google.com/maps?f=q&source=s
+ _q&hl=en&geocode=&q=7%2C+4th+Main+Road%2C+Domlur+II+Stage+Bangalore+Karnat
+ aka+560071+India\n      This is a free event.\n      Churumuri - Experienc
+ e BIC\n    
+LOCATION:BIC
+SUMMARY:Mama Bears: Love’s Victory over Hatred
+URL;VALUE=URI:https://bangaloreinternationalcentre.org/event/mama-bears/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:abb42931-da38-404b-b88c-09774587107e
+DTSTART;TZID=Asia/Kolkata:20231203T110000
+DTEND;TZID=Asia/Kolkata:20231203T160000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/iKdH2J3T5eRvMBjWA
+ ?g_st=iw\n      This is a ticketed event.\n      Churumuri - Christmas in 
+ Courtyard\n    
+LOCATION:Courtyard
+SUMMARY:Courtyard Picnic
+URL;VALUE=URI:https://maps.app.goo.gl/iKdH2J3T5eRvMBjWA?g_st=iw
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:8eb0b80d-0940-4833-8da2-e6a1f1d69192
+DTSTART;TZID=Asia/Kolkata:20231210T183000
+DTEND;TZID=Asia/Kolkata:20231210T200000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/4dKer3xZJsBdk84k7
+ \n      This is a ticketed event.\n      Churumuri - Events@Courtyard Koot
+ a\n    
+LOCATION:Courtyard Koota
+SUMMARY:Ragini Ramanathan Live
+URL;VALUE=URI:https://courtyardkoota.com/events/ragini-ramanathan-live/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:ffc846cf-e803-49d7-9fe9-d93053ee1935
+DTSTART;TZID=Asia/Kolkata:20231201T173000
+DTEND;TZID=Asia/Kolkata:20231201T190000
+DESCRIPTION:       Location Link: https://www.google.com/maps/dir/12.974148
+ \,77.5046096/swastika+school+of+dance/@13.1291368\,77.6963172\,10z/data=!4
+ m9!4m8!1m1!4e1!1m5!1m1!1s0x3bae184a08a113bd:0xf65ddad599db8cb4!2m2!1d77.60
+ 27821!2d13.0830711?entry=ttu\n      This is a free event.\n      Churumuri
+  - Ahum Arts Festival \n    More Details: https://ahum.in/upcoming-shows
+LOCATION:Swastika School of Dance and Music
+SUMMARY:Krideyalli Kale - An Art Exhibition
+URL;VALUE=URI:https://in.bookmyshow.com/bengaluru/events/ahum-arts-festival
+ -painting-exhibition/ET00375788
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:f3956972-e6af-4d74-9260-a0146b47485f
+DTSTART;TZID=Asia/Kolkata:20231209T104500
+DTEND;TZID=Asia/Kolkata:20231209T183000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/cPqZi9qbY2tddZ5H8
+ \n      This is a ticketed event.\n      Green Maidana - Par Excellence Go
+ lf Tournament\n    More Details: https://www.greatindiangolf.com/
+LOCATION:Prestige Golfshire
+SUMMARY:Great Indian Golf Alliance GIGA
+URL;VALUE=URI:https://www.greatindiangolf.com/participate
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:63127d2d-8d5c-4e24-8274-70d2c2db273d
+DTSTART;TZID=Asia/Kolkata:20231209T190000
+DTEND;TZID=Asia/Kolkata:20231209T210000
+DESCRIPTION:       Location Link: https://goo.gl/maps/TVcN1cuBfyx\n      Th
+ is is a ticketed event.\n      Ranga Katte - Xplore & Xperience@Vyoma\n   
+  
+LOCATION:Vyoma Artspace and Studio Theatre
+SUMMARY:Project Darling
+URL;VALUE=URI:https://goo.gl/maps/TVcN1cuBfyx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T083402Z
+UID:8dd7b684-c59f-4d26-8bca-18ba2fab876d
+DTSTART;TZID=Asia/Kolkata:20231204T193000
+DTEND;TZID=Asia/Kolkata:20231204T210000
+DESCRIPTION:       Location Link: https://maps.app.goo.gl/NVx1EG2okv1gBDo56
+ \n      This is a free event.\n      Ranga Katte - Natakagala Habba\n    
+LOCATION:Kalagrama
+SUMMARY:Jugaari
+URL;VALUE=URI:https://maps.app.goo.gl/NVx1EG2okv1gBDo56
+END:VEVENT
+END:VCALENDAR
