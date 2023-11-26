@@ -1,7 +1,7 @@
 require 'icalendar'
 require 'json'
 
-data = JSON.parse File.read '_site/2023.json'
+data = JSON.parse File.read 'docs/2023.json'
 events = data['events']
 cal = Icalendar::Calendar.new
 
@@ -37,4 +37,4 @@ events.each do |event_data|
 end
 
 cal.publish
-File.write '2023.ics', cal.to_ical
+File.write 'docs/2023.ics', cal.to_ical
