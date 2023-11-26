@@ -12,6 +12,7 @@ events.each do |event_data|
 
   # Create an event within the calendar
   cal.event do |e|
+    e.uid = event_data['id']
     e.dtstart     = Icalendar::Values::DateTime.new(start_time, 'tzid' => "Asia/Kolkata")
     e.dtend       = Icalendar::Values::DateTime.new(end_time, 'tzid' => "Asia/Kolkata")
     e.summary     = event_data['event_name']
