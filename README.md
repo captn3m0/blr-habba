@@ -38,6 +38,17 @@ to the calendar, so keep checking in your calendar app.
 
 <https://captnemo.in/blr-habba/2023.ics>
 
+# Bonus
+
+You can subscribe to the Bangalore International Center Calendar as well, via the following links:
+
+- [Google Calendar - BIC](https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fbangaloreinternationalcentre.org%2Fevents%2F%3Fical%3D1)
+- [Outlook 365 - BIC](https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fbangaloreinternationalcentre.org%2Fevents%2F%3Fical%3D1&name=BIC_CALENDAR)
+- [Outlook Live - BIC](https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fbangaloreinternationalcentre.org%2Fevents%2F%3Fical%3D1&name=BIC_CALENDAR)
+- [iOS/Android/MacOS - BIC Calendar](webcal://bangaloreinternationalcentre.org/events/?ical=1)
+- [ICS Calendar URL - BIC, Subscribe to this in your app](https://bangaloreinternationalcentre.org/events/?ical=1)
+
 ## License
 
 Licensed under the [MIT License](https://nemo.mit-license.org/). See LICENSE file for details. Source code [published on GitHub](https://github.com/captn3m0/blr-habba).
+
