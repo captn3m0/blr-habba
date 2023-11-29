@@ -4,6 +4,10 @@ require 'json'
 events = JSON.parse File.read 'docs/2023.json'
 cal = Icalendar::Calendar.new
 
+def slugify(str)
+  str.ljust(100).strip.gsub(/[\s\t\r\n\f]/,'_').gsub(/\W/,'').downcase
+end
+
 events.each do |event_data|
   event_date = Date.parse(event_data['date'])
   start_time = DateTime.parse("#{event_date} #{event_data['start_time']}")
@@ -13,7 +17,7 @@ events.each do |event_data|
 
   # Create an event within the calendar
   cal.event do |e|
-    e.uid = event_data['id']
+    e.uid = slugify event_data['event_name']
     e.dtstart     = Icalendar::Values::DateTime.new(start_time, 'tzid' => "Asia/Kolkata")
     e.dtend       = Icalendar::Values::DateTime.new(end_time, 'tzid' => "Asia/Kolkata")
     e.created     = Icalendar::Values::DateTime.new(created_time, 'tzid' => "Asia/Kolkata")
