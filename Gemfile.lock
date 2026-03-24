@@ -1,10 +1,16 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    base64 (0.3.0)
     concurrent-ruby (1.2.2)
-    icalendar (2.10.0)
+    icalendar (2.12.2)
+      base64
       ice_cube (~> 0.16)
-    ice_cube (0.16.4)
+      logger
+      ostruct
+    ice_cube (0.17.0)
+    logger (1.7.0)
+    ostruct (0.6.3)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
 
@@ -12,7 +18,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  icalendar (~> 2.10)
+  icalendar (~> 2.12)
   tzinfo (~> 2.0)
 
 BUNDLED WITH

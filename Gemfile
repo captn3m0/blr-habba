@@ -4,6 +4,6 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem "icalendar", "~> 2.10"
+gem "icalendar", "~> 2.12"
 
 gem "tzinfo", "~> 2.0"
